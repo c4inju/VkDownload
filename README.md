@@ -1,6 +1,6 @@
 # VkDownload
 ## Introduction
-When you have a album image 'sexy'. It have hundreds, thousands images and you don't want click save each image. This script will help you download images of Album in Vk social network.
+When you have an album of 'sexy' image . There are hundreds, thousands of images and you don't want to click save each image. This script will help you download a whole album in Vk social network.
 
 ## Requirements
 - **Python3**
